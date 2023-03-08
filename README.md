@@ -1,2 +1,2 @@
 # example
-imperial-college example git
+imperial-college example github
